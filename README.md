@@ -1,0 +1,2 @@
+# .github
+Legacy org config
